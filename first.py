@@ -1,1 +1,1 @@
-gyguygub
+name = input("")
